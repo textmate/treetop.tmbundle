@@ -7,10 +7,6 @@
 		<string>treetop</string>
 		<string>tt</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>^\s*(?:grammar|rule)\b(?!.*\bend\s*$)|\{\s*$</string>
-	<key>foldingStopMarker</key>
-	<string>^\s*(?:end\b|\})</string>
 	<key>keyEquivalent</key>
 	<string>^~T</string>
 	<key>name</key>
