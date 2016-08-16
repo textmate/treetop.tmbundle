@@ -74,10 +74,42 @@
 			<string>variable.non-terminal.treetop</string>
 		</dict>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.string.begin.treetop</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.string.end.treetop</string>
+				</dict>
+			</dict>
 			<key>match</key>
-			<string>"(\\.|[^"])*+"|'(\\.|[^'])*+'</string>
+			<string>(")(\\.|[^"])*+(")</string>
 			<key>name</key>
-			<string>string.literal.treetop</string>
+			<string>string.quoted.double.treetop</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.string.begin.treetop</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.string.end.treetop</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>(')(\\.|[^'])*+(')</string>
+			<key>name</key>
+			<string>string.quoted.single.treetop</string>
 		</dict>
 		<dict>
 			<key>match</key>

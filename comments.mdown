@@ -7,8 +7,6 @@
 
     <http://img.skitch.com/20080219-jtp2849ub2ac5ae3849j6j3tph.jpg>
 
-* constant.any-char → constant.character.any-char.treetop
-* string.literal → string.quoted.single | string.quoted.double
 * invalid.floating-punctuation → invalid.illegal.floating-punctuation.treetop
 * variable.non-terminal → variable.other.non-terminal.treetop
 * meta.function-call.ordered-choice is sort of an operator perhaps?
