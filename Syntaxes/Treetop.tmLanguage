@@ -178,7 +178,7 @@
 			<key>match</key>
 			<string>(?&lt;=\s|^)[*?+]|[!&amp;](?=\s|$)</string>
 			<key>name</key>
-			<string>invalid.floating-punctuation.treetop</string>
+			<string>invalid.illegal.floating-punctuation.treetop</string>
 		</dict>
 		<dict>
 			<key>begin</key>

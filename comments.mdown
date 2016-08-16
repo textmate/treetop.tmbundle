@@ -7,7 +7,6 @@
 
     <http://img.skitch.com/20080219-jtp2849ub2ac5ae3849j6j3tph.jpg>
 
-* invalid.floating-punctuation → invalid.illegal.floating-punctuation.treetop
 * meta.function-call.ordered-choice is sort of an operator perhaps?
 * punctuation.definition.string.begin|end.ruby → punctuation.section.embedded.begin|end.ruby
 * punctuation.grouping → punctuation.definition.group.treetop
