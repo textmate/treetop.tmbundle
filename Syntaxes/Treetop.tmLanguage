@@ -71,7 +71,7 @@
 			<key>match</key>
 			<string>[a-zA-Z]\w*</string>
 			<key>name</key>
-			<string>variable.non-terminal.treetop</string>
+			<string>variable.other.non-terminal.treetop</string>
 		</dict>
 		<dict>
 			<key>captures</key>
