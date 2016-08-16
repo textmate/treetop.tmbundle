@@ -8,11 +8,7 @@
     <http://img.skitch.com/20080219-jtp2849ub2ac5ae3849j6j3tph.jpg>
 
 * meta.function-call.ordered-choice is sort of an operator perhaps?
-* punctuation.definition.string.begin|end.ruby → punctuation.section.embedded.begin|end.ruby
-* punctuation.grouping → punctuation.definition.group.treetop
 * Unsure exactly what to make punctuation.quantifier|predicate but they shouldn't be punctuation. Generally speaking punctuation should be delimiters only, if a character does something/has meaning it's not punctuation. Best I can see it keyword.operator, other ideas?
-* In source.ruby {} not escaped.
-* Need some punctuation scopes added on stuff like strings. If your not sure what to add ask me on irc or email me. :)
 * Needs a TM_COMMENT_START preference.
 * Does not match "include SQL".
 * Does not match <ParenNode>.
