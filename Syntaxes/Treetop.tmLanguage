@@ -140,7 +140,7 @@
 			<key>match</key>
 			<string>\.</string>
 			<key>name</key>
-			<string>constant.any-char.treetop</string>
+			<string>constant.character.any-char.any-char.treetop</string>
 		</dict>
 		<dict>
 			<key>match</key>
