@@ -7,8 +7,6 @@
 
     <http://img.skitch.com/20080219-jtp2849ub2ac5ae3849j6j3tph.jpg>
 
-* meta.function-call.ordered-choice is sort of an operator perhaps?
-* Unsure exactly what to make punctuation.quantifier|predicate but they shouldn't be punctuation. Generally speaking punctuation should be delimiters only, if a character does something/has meaning it's not punctuation. Best I can see it keyword.operator, other ideas?
 * Needs a TM_COMMENT_START preference.
 * Does not match "include SQL".
 * Does not match <ParenNode>.

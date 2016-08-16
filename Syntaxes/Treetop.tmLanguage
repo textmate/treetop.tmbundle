@@ -65,7 +65,7 @@
 			<key>match</key>
 			<string>/</string>
 			<key>name</key>
-			<string>meta.function-call.ordered-choice.treetop</string>
+			<string>keyword.operator.function-call.ordered-choice.treetop</string>
 		</dict>
 		<dict>
 			<key>match</key>
@@ -154,13 +154,13 @@
 			<key>match</key>
 			<string>(?&lt;=\S)[*?+]</string>
 			<key>name</key>
-			<string>punctuation.quantifier.treetop</string>
+			<string>keyword.operator.quantifier.treetop</string>
 		</dict>
 		<dict>
 			<key>match</key>
 			<string>[!&amp;](?=\S)</string>
 			<key>name</key>
-			<string>punctuation.predicate.treetop</string>
+			<string>keyword.operator.predicate.treetop</string>
 		</dict>
 		<dict>
 			<key>match</key>
