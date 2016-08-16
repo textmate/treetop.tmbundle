@@ -7,7 +7,6 @@
 
     <http://img.skitch.com/20080219-jtp2849ub2ac5ae3849j6j3tph.jpg>
 
-* keyword.control.grammar|rule should be storage.type.grammar|rule, ditto for keyword.control.end
 * comment.single-line → comment.line.number-sign.treetop
 * Line comment should end with $\n? to match the whole line.
 * constant.any-char → constant.character.any-char.treetop

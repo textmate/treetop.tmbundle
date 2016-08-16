@@ -23,7 +23,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.control.grammar.treetop</string>
+					<string>storage.type.grammar.treetop</string>
 				</dict>
 				<key>2</key>
 				<dict>
@@ -42,7 +42,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.control.rule.treetop</string>
+					<string>storage.type.rule.treetop</string>
 				</dict>
 				<key>2</key>
 				<dict>
